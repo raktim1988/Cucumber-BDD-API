@@ -13,7 +13,6 @@ public class ApplicationStatus {
         return (statusCode == 200) ? AppStatus.RUNNING : AppStatus.DOWN;
     }
 
-    @Step("Get current status message")
     public void readStatusMessage() {
         SerenityRest.get(STATUS.getUrl());
     }

@@ -1,8 +1,7 @@
 package starter;
 
 public enum WebServiceEndPoints {
-    STATUS("http://localhost:8080/api/status"),
-    TRADE("http://localhost:8080/api/trade");
+    STATUS("https://developer.nytimes.com/");
 
     private final String url;
 
