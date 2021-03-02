@@ -6,14 +6,15 @@ This POC assignment show you how to get started with REST-API testing using Sere
 
 Git:
 
-    git clone https://github.com/raktim1988/Cucumber-BDD-API.git
+    https://github.com/raktim1988/Cucumber-BDD-API.git
 
 Sample Report : 
 
      https://reports.cucumber.io/reports/b3568bd6-4c71-45d2-be73-be7356bd17f8 
 
 CI Pipeline through gitlab:
-
+        
+    https://gitlab.com/rktmbsws/CucumberSerenity/-/pipelines
     
 
 ## A simple GET scenario
